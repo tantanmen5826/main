@@ -18,6 +18,10 @@ namespace Todo.Controllers
             return View();
         }
 
+        /// <summary>
+        /// aaaa
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Privacy()
         {
             return View();
