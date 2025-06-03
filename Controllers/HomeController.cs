@@ -13,13 +13,17 @@ namespace Todo.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
         }
 
         /// <summary>
-        /// aaaa
+        /// ƒeƒXƒg
         /// </summary>
         /// <returns></returns>
         public IActionResult Privacy()
